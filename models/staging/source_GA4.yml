@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: ga4_source_test
+    # project: fsh-digital-dashboard-prd
+    project: fshiccaios---inchanelclientapp
+    # dataset: source
+    dataset: DATASET_DASHBOARD
+    description: ga4 fake data for test
+    tables:
+      - name: FSH_DATA
+      # - name: flat_events_view_sample
