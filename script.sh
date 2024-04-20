@@ -1,2 +1,2 @@
-dbt deubg --profiles-dir .
+dbt debug --profiles-dir .
 deb run --profiles-dir .
