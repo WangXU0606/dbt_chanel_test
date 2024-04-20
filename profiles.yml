@@ -1,0 +1,23 @@
+dbt_chanel_test:
+  outputs:
+    dev:
+      dataset: wang_x_dev
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      location: EU
+      method: service-account
+      priority: interactive
+      project: fshiccaios---inchanelclientapp
+      threads: 4
+      type: bigquery
+    test:
+      dataset: test
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      location: EU
+      method: service-account
+      priority: interactive
+      project: fshiccaios---inchanelclientapp
+      threads: 4
+      type: bigquery
+  target: dev
