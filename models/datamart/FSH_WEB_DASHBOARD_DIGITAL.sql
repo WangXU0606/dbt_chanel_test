@@ -1,3 +1,4 @@
+-- add this line for test purpose, to be delete
 WITH select_useful_columns AS (
     SELECT 
         *
