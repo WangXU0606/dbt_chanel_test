@@ -5,7 +5,7 @@ dbt_chanel_test:
       job_execution_timeout_seconds: 300
       job_retries: 1
       location: EU
-      method: service-account
+      method: oauth
       priority: interactive
       project: fshiccaios---inchanelclientapp
       threads: 4
@@ -15,7 +15,7 @@ dbt_chanel_test:
       job_execution_timeout_seconds: 300
       job_retries: 1
       location: EU
-      method: service-account
+      method: oauth
       priority: interactive
       project: fshiccaios---inchanelclientapp
       threads: 4
