@@ -6,6 +6,7 @@ dbt_chanel_test:
       job_retries: 1
       location: EU
       method: service-account
+      keyfile: /secrets/production-deployment-keyfile
       priority: interactive
       project: fshiccaios---inchanelclientapp
       threads: 4
@@ -16,6 +17,7 @@ dbt_chanel_test:
       job_retries: 1
       location: EU
       method: service-account
+      keyfile: /secrets/production-deployment-keyfile
       priority: interactive
       project: fshiccaios---inchanelclientapp
       threads: 4
