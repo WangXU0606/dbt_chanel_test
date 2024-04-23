@@ -1,12 +1,9 @@
 version: 2
 
 sources:
-  - name: ga4_source_test
-    # project: fsh-digital-dashboard-prd
-    project: fshiccaios---inchanelclientapp
-    # dataset: source
-    dataset: DATASET_DASHBOARD
-    description: ga4 fake data for test
+  - name: ga4_flattened_source
+    project: global-digital-data-dw
+    dataset: analytics_310678729_flat
+    description: ga4 roll up flattened source data
     tables:
-      - name: FSH_DATA
-      # - name: flat_events_view_sample
+      - name: flat_events

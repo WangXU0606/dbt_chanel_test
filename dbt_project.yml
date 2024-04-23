@@ -36,6 +36,6 @@ models:
     staging:
       +materialized: view
       +dataset: staging
-    datamart:
-      +materialized: view
-      +dataset: datamart
+    adhoc:
+      +materialized: table
+      +dataset: DATASET_DASHBOARD
