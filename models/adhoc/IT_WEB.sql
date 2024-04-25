@@ -3,8 +3,8 @@ WITH filter_data_by_date AS (
     SELECT * 
     FROM {{ ref('ga4_source_roll_up') }}
     WHERE epk_division_flag = 'fsh' -- filter on division fashion
-    AND event_date = '2024-03-01'
-    -- AND event_date BETWEEN '2024-03-01' AND '2024-03-08' --for verify data in recette, to be deleted
+    AND geo.country = "France"
+    AND event_date BETWEEN '2024-03-01' AND '2024-03-08' --for verify data in recette, to be deleted
 ),
 
 select_useful_columns AS (
