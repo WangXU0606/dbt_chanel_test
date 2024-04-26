@@ -36,6 +36,12 @@ models:
     staging:
       +materialized: view
       +dataset: staging
+    core:
+      +materialized: view
+      +dataset: core
     adhoc:
       +materialized: table
       +dataset: DATASET_DASHBOARD
+
+seeds:
+  +dataset: static_data

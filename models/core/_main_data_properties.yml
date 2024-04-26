@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: main_data_ga4
+    columns: 
+      - name: unique_event_id_modified
+        tests:
+          - not_null
+          - unique
+
+# test using external packages
+    tests:
+      - dbt_expectations.expect_table_row_count_to_be_between:
+          min_value: 9000
+          row_condition: "session_id = '2013319631.17079864621707986694'"
