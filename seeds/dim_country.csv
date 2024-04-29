@@ -1,1734 +1,245 @@
-country,chanel_region,geographical_region
-Australia,uk,Asia & Pacific
-Chile,europe,Latin America
-Madagascar,us,Africa
-Benin,japan,Africa
-Afghanistan,japan,other
-Iceland,uk,Europe
-Argentina,apac,Latin America
-Taiwan,us,Asia & Pacific
-São Tomé & Príncipe,swiss,other
-Azerbaijan,europe,other
-Chile,swiss,Latin America
-Samoa,apac,other
-Fiji,uk,other
-Liechtenstein,swiss,Europe
-Kenya,us,Africa
-American Samoa,japan,other
-Congo - Brazzaville,japan,other
-Panama,,other
-Bolivia,swiss,Latin America
-San Marino,us,Europe
-Dominica,swiss,other
-Anguilla,japan,other
-Ukraine,europe,Europe
-Montenegro,apac,Europe
-Mauritania,apac,Africa
-Palau,japan,other
-Sint Maarten,europe,other
-Estonia,apac,Europe
-Croatia,apac,Europe
-China,us,Asia & Pacific
-Kenya,japan,Africa
-Syria,apac,Middle East
-Guernsey,europe,other
-Guernsey,us,other
-Slovakia,,Europe
-São Tomé & Príncipe,japan,other
-Honduras,europe,other
-Guernsey,apac,other
-Puerto Rico,swiss,other
-Cape Verde,uk,Africa
-Palestine,japan,other
-Uzbekistan,apac,other
-Réunion,apac,other
-Colombia,us,Latin America
-Gabon,swiss,Africa
-Lithuania,swiss,Europe
-Liberia,apac,Africa
-Kosovo,europe,Europe
-United States,japan,North America
-Lebanon,middle east,Middle East
-Denmark,swiss,Europe
-Mali,middle east,Africa
-Macao,swiss,other
-Samoa,japan,other
-Isle of Man,middle east,other
-Niue,us,other
-Cayman Islands,japan,other
-Honduras,uk,other
-Samoa,us,other
-Brunei,,other
-Mauritius,us,other
-Jersey,us,other
-Egypt,,Africa
-Solomon Islands,uk,other
-Timor-Leste,middle east,other
-Belarus,middle east,Europe
-Jersey,swiss,other
-Aruba,us,other
-U.S. Virgin Islands,uk,other
-Djibouti,japan,Africa
-U.S. Virgin Islands,swiss,other
-Madagascar,europe,Africa
-Qatar,middle east,Middle East
-Madagascar,swiss,Africa
-Morocco,,Africa
-Myanmar (Burma),uk,other
-Azerbaijan,japan,other
-Kosovo,swiss,Europe
-Costa Rica,japan,other
-Hong Kong,us,Asia & Pacific
-New Caledonia,middle east,other
-Namibia,uk,Africa
-Egypt,us,Africa
-United States,swiss,North America
-Nauru,japan,other
-Seychelles,japan,Africa
-China,uk,Asia & Pacific
-Monaco,japan,Europe
-Mali,europe,Africa
-Bahamas,swiss,other
-Bermuda,swiss,other
-Guam,japan,other
-India,us,other
-Malaysia,swiss,Asia & Pacific
-Bosnia & Herzegovina,apac,other
-Portugal,apac,Europe
-Curaçao,middle east,other
-Mauritius,uk,other
-Burundi,middle east,Africa
-Czechia,europe,other
-Rwanda,uk,Africa
-Ethiopia,swiss,Africa
-Tunisia,,Africa
-Belgium,middle east,Europe
-British Virgin Islands,swiss,other
-Guinea-Bissau,middle east,Africa
-Türkiye,middle east,other
-Congo - Kinshasa,uk,other
-Fiji,middle east,other
-Angola,apac,Africa
-Romania,europe,Europe
-Angola,us,Africa
-Tanzania,us,Africa
-Vanuatu,middle east,other
-France,us,Europe
-Romania,swiss,Europe
-Liberia,middle east,Africa
-Netherlands,apac,Europe
-United Kingdom,japan,Europe
-Uganda,europe,Africa
-Canada,uk,North America
-American Samoa,uk,other
-Finland,middle east,Europe
-Aruba,apac,other
-Zambia,,Africa
-Kazakhstan,uk,other
-Ghana,apac,Africa
-Israel,middle east,Middle East
-Singapore,middle east,Asia & Pacific
-Poland,middle east,Europe
-Nigeria,japan,Africa
-Guyana,middle east,Latin America
-North Korea,japan,other
-Burkina Faso,japan,Africa
-Gambia,uk,Africa
-Burundi,us,Africa
-Sierra Leone,uk,Africa
-El Salvador,europe,other
-Guatemala,swiss,other
-Greenland,middle east,other
-Israel,us,Middle East
-Greenland,us,other
-France,swiss,Europe
-Tanzania,uk,Africa
-St. Barthélemy,europe,other
-Vietnam,swiss,other
-Lesotho,us,Africa
-Dominica,us,other
-Guyana,swiss,Latin America
-Cambodia,middle east,other
-Jordan,apac,Middle East
-Palau,europe,other
-Vietnam,us,other
-Uzbekistan,europe,other
-Micronesia,uk,other
-Sri Lanka,,other
-Brunei,apac,other
-Fiji,europe,other
-Antarctica,us,other
-Azerbaijan,apac,other
-Luxembourg,us,Europe
-Oman,uk,Middle East
-Sweden,apac,Europe
-Qatar,apac,Middle East
-Mayotte,swiss,other
-Montenegro,uk,Europe
-Czechia,uk,other
-Georgia,japan,other
-St. Kitts & Nevis,us,other
-Liberia,europe,Africa
-Rwanda,middle east,Africa
-Ghana,us,Africa
-Nepal,uk,other
-Turks & Caicos Islands,middle east,other
-Suriname,apac,Latin America
-Tajikistan,japan,other
-St. Vincent & Grenadines,japan,other
-Norway,middle east,Europe
-Trinidad & Tobago,uk,other
-Netherlands,europe,Europe
-Hungary,middle east,Europe
-Marshall Islands,us,other
-Palau,uk,other
-Trinidad & Tobago,europe,other
-Svalbard & Jan Mayen,uk,other
-Bhutan,japan,other
-Congo - Brazzaville,swiss,other
-Curaçao,japan,other
-Namibia,japan,Africa
-Türkiye,apac,other
-Botswana,swiss,Africa
-Vanuatu,uk,other
-Djibouti,swiss,Africa
-Gibraltar,middle east,other
-Zimbabwe,middle east,Africa
-Montenegro,swiss,Europe
-Bosnia & Herzegovina,europe,other
-Svalbard & Jan Mayen,europe,other
-Taiwan,europe,Asia & Pacific
-Chad,us,Africa
-Panama,apac,other
-Myanmar (Burma),japan,other
-Syria,swiss,Middle East
-Pakistan,apac,other
-,middle east,other
-Kiribati,uk,other
-Antigua & Barbuda,europe,other
-Kenya,europe,Africa
-Georgia,,other
-Russia,europe,Europe
-Curaçao,apac,other
-Trinidad & Tobago,us,other
-Türkiye,swiss,other
-St. Kitts & Nevis,middle east,other
-Tajikistan,uk,other
-Caribbean Netherlands,apac,other
-Macao,middle east,other
-Laos,swiss,other
-Mayotte,us,other
-Bahrain,swiss,Middle East
-India,middle east,other
-Botswana,europe,Africa
-Burundi,japan,Africa
-Puerto Rico,europe,other
-Vatican City,europe,other
-United States,europe,North America
-Morocco,middle east,Africa
-Netherlands,us,Europe
-Djibouti,uk,Africa
-Zimbabwe,uk,Africa
-Madagascar,middle east,Africa
-Japan,us,Asia & Pacific
-Faroe Islands,europe,other
-United States,uk,North America
-Belize,europe,other
-Romania,apac,Europe
-Marshall Islands,japan,other
-Belarus,swiss,Europe
-Nepal,middle east,other
-British Virgin Islands,japan,other
-Jersey,uk,other
-Japan,middle east,Asia & Pacific
-Russia,swiss,Europe
-Latvia,swiss,Europe
-Sint Maarten,uk,other
-Colombia,uk,Latin America
-Cyprus,europe,Middle East
-United States,middle east,North America
-Western Sahara,middle east,other
-Seychelles,us,Africa
-Taiwan,apac,Asia & Pacific
-St. Pierre & Miquelon,europe,other
-Guinea-Bissau,swiss,Africa
-U.S. Virgin Islands,japan,other
-Curaçao,,other
-Japan,europe,Asia & Pacific
-St. Martin,middle east,other
-Guadeloupe,us,other
-Mongolia,uk,other
-Tonga,us,other
-Laos,japan,other
-North Macedonia,us,other
-Libya,,Africa
-Norway,uk,Europe
-Uzbekistan,,other
-Yemen,swiss,Middle East
-São Tomé & Príncipe,uk,other
-Guadeloupe,middle east,other
-Trinidad & Tobago,apac,other
-French Polynesia,japan,other
-Germany,uk,Europe
-,uk,other
-Hungary,japan,Europe
-Malta,,other
-Latvia,uk,Europe
-Latvia,,Europe
-Montserrat,japan,other
-Chile,apac,Latin America
-Nigeria,uk,Africa
-Rwanda,europe,Africa
-Norway,swiss,Europe
-Cape Verde,swiss,Africa
-Antigua & Barbuda,us,other
-Azerbaijan,swiss,other
-Algeria,japan,Africa
-Åland Islands,us,other
-Belarus,us,Europe
-Guinea,japan,Africa
-Ghana,europe,Africa
-Andorra,middle east,Europe
-Vietnam,uk,other
-Nicaragua,uk,other
-Venezuela,,Latin America
-Bahrain,europe,Middle East
-Réunion,middle east,other
-Andorra,apac,Europe
-Malta,apac,other
-Puerto Rico,middle east,other
-Gambia,apac,Africa
-St. Barthélemy,swiss,other
-Turks & Caicos Islands,uk,other
-Saudi Arabia,swiss,Middle East
-Peru,swiss,Latin America
-Bolivia,japan,Latin America
-Kenya,apac,Africa
-Ireland,us,Europe
-China,,Asia & Pacific
-Trinidad & Tobago,swiss,other
-Cook Islands,apac,other
-St. Martin,swiss,other
-Germany,europe,Europe
-Nicaragua,japan,other
-Bermuda,middle east,other
-Brunei,uk,other
-Botswana,apac,Africa
-Faroe Islands,apac,other
-Caribbean Netherlands,europe,other
-Aruba,middle east,other
-United States,___PII_REDACTED___,North America
-Ecuador,us,Latin America
-Israel,swiss,Middle East
-Mongolia,swiss,other
-Malta,us,other
-Nigeria,middle east,Africa
-Ukraine,japan,Europe
-Malawi,swiss,Africa
-Albania,europe,Europe
-South Africa,europe,Africa
-Algeria,uk,Africa
-Sudan,europe,Africa
-Brazil,japan,Latin America
-Bangladesh,apac,other
-India,swiss,other
-Barbados,middle east,other
-Niger,apac,Africa
-Liechtenstein,europe,Europe
-Angola,japan,Africa
-Bangladesh,middle east,other
-Croatia,swiss,Europe
-Marshall Islands,apac,other
-Malawi,europe,Africa
-Belize,japan,other
-Pakistan,swiss,other
-Denmark,,Europe
-Ecuador,apac,Latin America
-St. Martin,europe,other
-Vanuatu,europe,other
-Nigeria,,Africa
-Sint Maarten,middle east,other
-Slovakia,europe,Europe
-Maldives,middle east,other
-United Kingdom,europe,Europe
-Moldova,uk,Europe
-Germany,us,Europe
-Peru,apac,Latin America
-Guam,swiss,other
-Benin,apac,Africa
-Croatia,japan,Europe
-Macao,uk,other
-Palestine,uk,other
-Mongolia,middle east,other
-Slovakia,japan,Europe
-South Sudan,swiss,Africa
-French Polynesia,uk,other
-Maldives,uk,other
-Grenada,japan,other
-Northern Mariana Islands,middle east,other
-Bahrain,uk,Middle East
-Sweden,europe,Europe
-South Sudan,middle east,Africa
-Argentina,middle east,Latin America
-New Caledonia,us,other
-Lebanon,japan,Middle East
-Ukraine,apac,Europe
-Greece,swiss,Europe
-Estonia,swiss,Europe
-Peru,japan,Latin America
-Algeria,europe,Africa
-United Kingdom,us,Europe
-Kazakhstan,europe,other
-Iceland,middle east,Europe
-Guyana,uk,Latin America
-Equatorial Guinea,europe,Africa
-Dominica,uk,other
-Monaco,swiss,Europe
-British Virgin Islands,apac,other
-Congo - Brazzaville,apac,other
-New Caledonia,japan,other
-Mayotte,apac,other
-Mozambique,swiss,Africa
-China,swiss,Asia & Pacific
-United Kingdom,apac,Europe
-Myanmar (Burma),swiss,other
-Tunisia,middle east,Africa
-Madagascar,apac,Africa
-Bosnia & Herzegovina,swiss,other
-Burkina Faso,uk,Africa
-Mali,us,Africa
-Comoros,europe,Africa
-Ireland,apac,Europe
-Antigua & Barbuda,apac,other
-Senegal,apac,Africa
-Somalia,apac,Africa
-Peru,europe,Latin America
-Angola,middle east,Africa
-North Macedonia,japan,other
-Hungary,apac,Europe
-Dominican Republic,apac,other
-Cambodia,japan,other
-Nauru,us,other
-Libya,us,Africa
-Iraq,swiss,Middle East
-Qatar,swiss,Middle East
-Venezuela,middle east,Latin America
-Lesotho,europe,Africa
-Colombia,middle east,Latin America
-Canada,,North America
-Turkmenistan,apac,other
-El Salvador,middle east,other
-Indonesia,,Asia & Pacific
-Italy,uk,Europe
-Mayotte,europe,other
-Cayman Islands,,other
-Japan,uk,Asia & Pacific
-Brunei,japan,other
-Western Sahara,uk,other
-British Virgin Islands,us,other
-Faroe Islands,uk,other
-Serbia,japan,Europe
-Ethiopia,japan,Africa
-Guadeloupe,apac,other
-Tunisia,uk,Africa
-Lithuania,us,Europe
-Sudan,apac,Africa
-Montenegro,,Europe
-Brazil,europe,Latin America
-Madagascar,uk,Africa
-Dominican Republic,europe,other
-Angola,,Africa
-Thailand,japan,Asia & Pacific
-Morocco,swiss,Africa
-Afghanistan,middle east,other
-Colombia,swiss,Latin America
-Iran,europe,Middle East
-Burundi,apac,Africa
-Malawi,middle east,Africa
-Hong Kong,apac,Asia & Pacific
-Ireland,uk,Europe
-Lesotho,japan,Africa
-Saudi Arabia,europe,Middle East
-South Africa,middle east,Africa
-Gambia,europe,Africa
-Burkina Faso,apac,Africa
-Singapore,apac,Asia & Pacific
-France,europe,Europe
-Central African Republic,uk,Africa
-Norway,,Europe
-Myanmar (Burma),us,other
-Yemen,europe,Middle East
-St. Vincent & Grenadines,apac,other
-Greenland,apac,other
-Portugal,us,Europe
-Turkmenistan,japan,other
-Italy,middle east,Europe
-Chile,us,Latin America
-Laos,middle east,other
-Iran,us,Middle East
-Uruguay,us,Latin America
-Malaysia,apac,Asia & Pacific
-Nauru,middle east,other
-Nicaragua,middle east,other
-Switzerland,japan,Europe
-Gabon,middle east,Africa
-Isle of Man,us,other
-Gambia,us,Africa
-South Sudan,us,Africa
-Serbia,,Europe
-Luxembourg,japan,Europe
-Hong Kong,middle east,Asia & Pacific
-Slovakia,swiss,Europe
-Bulgaria,,Europe
-St. Barthélemy,apac,other
-Uzbekistan,japan,other
-Gabon,uk,Africa
-Cayman Islands,middle east,other
-Samoa,swiss,other
-Albania,uk,Europe
-Switzerland,,Europe
-Indonesia,europe,Asia & Pacific
-India,uk,other
-Mongolia,us,other
-St. Vincent & Grenadines,uk,other
-Spain,,Europe
-Grenada,europe,other
-Chad,apac,Africa
-Hungary,,Europe
-Kenya,uk,Africa
-Azerbaijan,middle east,other
-Micronesia,europe,other
-Bahrain,japan,Middle East
-Iceland,swiss,Europe
-Czechia,apac,other
-Dominican Republic,uk,other
-Ethiopia,us,Africa
-Georgia,middle east,other
-Laos,,other
-Tajikistan,middle east,other
-Belgium,uk,Europe
-Nepal,europe,other
-Kenya,swiss,Africa
-Cape Verde,japan,Africa
-Solomon Islands,europe,other
-Romania,middle east,Europe
-Tanzania,middle east,Africa
-Turks & Caicos Islands,japan,other
-Bahrain,apac,Middle East
-Malta,swiss,other
-Australia,us,Asia & Pacific
-Afghanistan,swiss,other
-Martinique,middle east,other
-Western Sahara,apac,other
-Canada,europe,North America
-Seychelles,uk,Africa
-Senegal,us,Africa
-Iceland,us,Europe
-United Kingdom,swiss,Europe
-Marshall Islands,uk,other
-Latvia,europe,Europe
-Jamaica,middle east,other
-Côte d’Ivoire,japan,other
-Rwanda,japan,Africa
-South Korea,apac,Asia & Pacific
-Vietnam,middle east,other
-Iraq,uk,Middle East
-Nauru,apac,other
-Estonia,us,Europe
-Eritrea,europe,Africa
-Panama,uk,other
-Australia,japan,Asia & Pacific
-Haiti,us,other
-Haiti,europe,other
-Singapore,,Asia & Pacific
-Morocco,us,Africa
-Qatar,,Middle East
-North Macedonia,apac,other
-Papua New Guinea,us,other
-Mauritania,middle east,Africa
-Wallis & Futuna,europe,other
-Syria,japan,Middle East
-Brazil,apac,Latin America
-Gibraltar,japan,other
-Barbados,us,other
-Pakistan,middle east,other
-Botswana,middle east,Africa
-Tanzania,apac,Africa
-Nigeria,swiss,Africa
-Indonesia,swiss,Asia & Pacific
-Paraguay,middle east,Latin America
-Seychelles,middle east,Africa
-Antarctica,europe,other
-Mexico,apac,North America
-Gibraltar,uk,other
-Jordan,us,Middle East
-Venezuela,us,Latin America
-Congo - Brazzaville,uk,other
-Grenada,swiss,other
-Togo,swiss,Africa
-Kuwait,japan,Middle East
-South Korea,europe,Asia & Pacific
-Hong Kong,japan,Asia & Pacific
-Libya,middle east,Africa
-Costa Rica,uk,other
-Romania,us,Europe
-Lithuania,middle east,Europe
-Austria,apac,Europe
-Cambodia,us,other
-Mauritania,us,Africa
-Åland Islands,europe,other
-Kosovo,japan,Europe
-Slovenia,apac,Europe
-Anguilla,us,other
-Guadeloupe,japan,other
-Japan,apac,Asia & Pacific
-Central African Republic,europe,Africa
-Switzerland,us,Europe
-Aruba,europe,other
-China,japan,Asia & Pacific
-Cyprus,japan,Middle East
-Réunion,swiss,other
-St. Barthélemy,us,other
-Kuwait,swiss,Middle East
-Malaysia,middle east,Asia & Pacific
-Taiwan,uk,Asia & Pacific
-Austria,europe,Europe
-Monaco,,Europe
-Faroe Islands,japan,other
-Tanzania,,Africa
-Monaco,uk,Europe
-Afghanistan,uk,other
-Uganda,,Africa
-Spain,apac,Europe
-United Arab Emirates,middle east,Middle East
-Armenia,swiss,other
-Costa Rica,europe,other
-Germany,japan,Europe
-Tunisia,us,Africa
-Palestine,apac,other
-St. Lucia,middle east,other
-Kazakhstan,swiss,other
-Oman,,Middle East
-Yemen,,Middle East
-Guinea,middle east,Africa
-Portugal,middle east,Europe
-Caribbean Netherlands,uk,other
-St. Kitts & Nevis,europe,other
-St. Helena,uk,other
-Tonga,uk,other
-Angola,europe,Africa
-Ghana,japan,Africa
-Qatar,japan,Middle East
-Poland,swiss,Europe
-Portugal,uk,Europe
-Croatia,uk,Europe
-Russia,us,Europe
-Belgium,japan,Europe
-New Zealand,apac,other
-Chad,europe,Africa
-Tajikistan,europe,other
-Guyana,japan,Latin America
-Macao,us,other
-Kazakhstan,middle east,other
-Brunei,europe,other
-Pakistan,,other
-Russia,,Europe
-Poland,,Europe
-Nepal,apac,other
-St. Martin,apac,other
-Turkmenistan,uk,other
-Guyana,europe,Latin America
-Samoa,middle east,other
-Belgium,swiss,Europe
-Netherlands,japan,Europe
-Nepal,,other
-Venezuela,japan,Latin America
-Gambia,japan,Africa
-Jersey,europe,other
-Slovenia,japan,Europe
-Macao,japan,other
-Philippines,swiss,other
-Guyana,apac,Latin America
-Togo,apac,Africa
-Iraq,apac,Middle East
-Switzerland,apac,Europe
-Ghana,swiss,Africa
-Slovenia,swiss,Europe
-Isle of Man,uk,other
-Egypt,middle east,Africa
-St. Kitts & Nevis,japan,other
-Mauritania,europe,Africa
-Guam,apac,other
-China,middle east,Asia & Pacific
-Western Sahara,swiss,other
-Christmas Island,us,other
-Qatar,europe,Middle East
-Israel,,Middle East
-Chile,japan,Latin America
-Caribbean Netherlands,us,other
-Micronesia,japan,other
-United States,apac,North America
-Lebanon,swiss,Middle East
-Saudi Arabia,,Middle East
-Oman,us,Middle East
-Moldova,swiss,Europe
-Gibraltar,swiss,other
-Senegal,uk,Africa
-Malawi,us,Africa
-Cyprus,swiss,Middle East
-American Samoa,middle east,other
-China,apac,Asia & Pacific
-New Caledonia,uk,other
-Martinique,europe,other
-Singapore,us,Asia & Pacific
-Uganda,middle east,Africa
-Trinidad & Tobago,japan,other
-Kiribati,apac,other
-Paraguay,uk,Latin America
-El Salvador,us,other
-Latvia,apac,Europe
-Niger,swiss,Africa
-Colombia,apac,Latin America
-St. Kitts & Nevis,apac,other
-Réunion,japan,other
-Mexico,europe,North America
-Dominica,middle east,other
-Côte d’Ivoire,,other
-St. Lucia,uk,other
-Eswatini,uk,Africa
-Greece,europe,Europe
-Italy,swiss,Europe
-Guinea,apac,Africa
-Bangladesh,japan,other
-Cameroon,swiss,Africa
-Marshall Islands,middle east,other
-Tunisia,japan,Africa
-Italy,us,Europe
-Kenya,middle east,Africa
-Burkina Faso,middle east,Africa
-Denmark,apac,Europe
-Monaco,us,Europe
-Ukraine,middle east,Europe
-Mexico,middle east,North America
-Tunisia,europe,Africa
-Samoa,europe,other
-Brazil,us,Latin America
-Taiwan,japan,Asia & Pacific
-Ethiopia,europe,Africa
-Angola,uk,Africa
-Kuwait,europe,Middle East
-Papua New Guinea,apac,other
-Cayman Islands,us,other
-South Africa,swiss,Africa
-Thailand,uk,Asia & Pacific
-Bhutan,,other
-Belgium,apac,Europe
-Türkiye,us,other
-Zambia,japan,Africa
-Cook Islands,japan,other
-Palestine,us,other
-St. Kitts & Nevis,swiss,other
-Palestine,europe,other
-Mali,apac,Africa
-Timor-Leste,apac,other
-Ireland,swiss,Europe
-Sint Maarten,apac,other
-American Samoa,europe,other
-South Korea,japan,Asia & Pacific
-Uganda,us,Africa
-Romania,uk,Europe
-Lesotho,middle east,Africa
-Slovakia,middle east,Europe
-Serbia,us,Europe
-Western Sahara,us,other
-Moldova,japan,Europe
-Falkland Islands (Islas Malvinas),us,other
-Burkina Faso,us,Africa
-Niger,japan,Africa
-Armenia,middle east,other
-Maldives,apac,other
-Australia,swiss,Asia & Pacific
-U.S. Virgin Islands,europe,other
-Slovenia,,Europe
-Canada,apac,North America
-Paraguay,japan,Latin America
-Kyrgyzstan,,other
-Syria,us,Middle East
-Cyprus,apac,Middle East
-North Macedonia,europe,other
-Ethiopia,uk,Africa
-Suriname,middle east,Latin America
-Mauritius,,other
-Uruguay,apac,Latin America
-Guam,middle east,other
-Chad,japan,Africa
-Bulgaria,us,Europe
-United Arab Emirates,europe,Middle East
-Martinique,japan,other
-Equatorial Guinea,middle east,Africa
-Dominican Republic,middle east,other
-North Macedonia,,other
-,japan,other
-Spain,middle east,Europe
-Greenland,europe,other
-French Polynesia,middle east,other
-Barbados,uk,other
-Belarus,apac,Europe
-Belarus,europe,Europe
-United States,us,North America
-Palau,us,other
-Zambia,swiss,Africa
-Germany,apac,Europe
-Uzbekistan,us,other
-Nepal,us,other
-Austria,middle east,Europe
-Antigua & Barbuda,swiss,other
-Dominica,japan,other
-Guinea,us,Africa
-Liberia,swiss,Africa
-Syria,europe,Middle East
-Niger,uk,Africa
-Austria,swiss,Europe
-Afghanistan,europe,other
-Greece,,Europe
-Sierra Leone,europe,Africa
-Colombia,europe,Latin America
-Cayman Islands,apac,other
-Yemen,apac,Middle East
-Brazil,middle east,Latin America
-Samoa,uk,other
-Aruba,uk,other
-Bangladesh,us,other
-Kosovo,us,Europe
-Panama,swiss,other
-Åland Islands,uk,other
-Caribbean Netherlands,middle east,other
-St. Martin,uk,other
-Guam,uk,other
-Albania,swiss,Europe
-New Caledonia,swiss,other
-Comoros,uk,Africa
-Jamaica,apac,other
-Georgia,us,other
-New Zealand,,other
-Papua New Guinea,japan,other
-United Kingdom,,Europe
-Russia,middle east,Europe
-Kosovo,middle east,Europe
-Türkiye,uk,other
-U.S. Virgin Islands,middle east,other
-Bahrain,,Middle East
-Solomon Islands,japan,other
-Liechtenstein,apac,Europe
-Serbia,apac,Europe
-North Macedonia,swiss,other
-Monaco,apac,Europe
-Greenland,uk,other
-Turkmenistan,,other
-Kuwait,apac,Middle East
-Switzerland,middle east,Europe
-Czechia,swiss,other
-Georgia,apac,other
-Puerto Rico,apac,other
-Sint Maarten,japan,other
-Bolivia,europe,Latin America
-Malaysia,uk,Asia & Pacific
-Indonesia,japan,Asia & Pacific
-Solomon Islands,apac,other
-Curaçao,swiss,other
-Albania,,Europe
-Poland,europe,Europe
-Vanuatu,us,other
-Uruguay,uk,Latin America
-Panama,middle east,other
-Kyrgyzstan,us,other
-Somalia,us,Africa
-Turkmenistan,middle east,other
-Dominica,apac,other
-Cambodia,europe,other
-Laos,europe,other
-Bulgaria,japan,Europe
-Iran,apac,Middle East
-Denmark,us,Europe
-Antigua & Barbuda,middle east,other
-Qatar,us,Middle East
-British Virgin Islands,middle east,other
-Estonia,uk,Europe
-British Indian Ocean Territory,us,other
-Czechia,,other
-Somalia,middle east,Africa
-Bangladesh,swiss,other
-Israel,apac,Middle East
-Lithuania,japan,Europe
-Algeria,apac,Africa
-Sweden,,Europe
-Liechtenstein,uk,Europe
-Qatar,uk,Middle East
-Jamaica,uk,other
-Montserrat,apac,other
-Kyrgyzstan,europe,other
-Finland,swiss,Europe
-Fiji,apac,other
-Turkmenistan,us,other
-St. Barthélemy,uk,other
-Central African Republic,middle east,Africa
-Ukraine,,Europe
-Azerbaijan,,other
-Brazil,uk,Latin America
-Bulgaria,europe,Europe
-Côte d’Ivoire,us,other
-Cuba,swiss,other
-Luxembourg,europe,Europe
-Taiwan,,Asia & Pacific
-Mauritius,japan,other
-Sweden,uk,Europe
-Brazil,swiss,Latin America
-Barbados,swiss,other
-Hong Kong,europe,Asia & Pacific
-Chad,middle east,Africa
-Zambia,europe,Africa
-Venezuela,uk,Latin America
-Georgia,europe,other
-U.S. Outlying Islands,apac,other
-Honduras,swiss,other
-Luxembourg,uk,Europe
-South Africa,us,Africa
-Guinea,swiss,Africa
-Lithuania,uk,Europe
-Kosovo,apac,Europe
-Philippines,,other
-Morocco,europe,Africa
-Germany,,Europe
-Curaçao,uk,other
-Paraguay,apac,Latin America
-Armenia,,other
-Austria,us,Europe
-Monaco,middle east,Europe
-Taiwan,swiss,Asia & Pacific
-Comoros,middle east,Africa
-Montenegro,middle east,Europe
-Georgia,uk,other
-Tunisia,apac,Africa
-Canada,middle east,North America
-Barbados,apac,other
-Falkland Islands (Islas Malvinas),uk,other
-Mauritius,apac,other
-Andorra,swiss,Europe
-Latvia,middle east,Europe
-Isle of Man,swiss,other
-British Indian Ocean Territory,uk,other
-Djibouti,europe,Africa
-Cyprus,uk,Middle East
-Ecuador,uk,Latin America
-Austria,japan,Europe
-Congo - Kinshasa,apac,other
-Belarus,uk,Europe
-Vietnam,japan,other
-South Korea,swiss,Asia & Pacific
-Argentina,uk,Latin America
-Peru,middle east,Latin America
-Namibia,swiss,Africa
-Sierra Leone,,Africa
-Greece,japan,Europe
-Niger,europe,Africa
-American Samoa,us,other
-Laos,apac,other
-Mexico,,North America
-Italy,japan,Europe
-Cameroon,us,Africa
-Montenegro,europe,Europe
-Denmark,japan,Europe
-Antigua & Barbuda,uk,other
-Bermuda,us,other
-Montenegro,us,Europe
-Sri Lanka,us,other
-Oman,swiss,Middle East
-Guam,us,other
-Jamaica,japan,other
-Morocco,uk,Africa
-Serbia,europe,Europe
-Romania,,Europe
-Senegal,middle east,Africa
-Uruguay,middle east,Latin America
-Malawi,japan,Africa
-Estonia,europe,Europe
-Moldova,middle east,Europe
-Haiti,middle east,other
-Rwanda,swiss,Africa
-Mauritius,europe,other
-Rwanda,us,Africa
-India,,other
-Japan,japan,Asia & Pacific
-Palau,middle east,other
-Australia,apac,Asia & Pacific
-Ghana,uk,Africa
-Palau,apac,other
-Argentina,europe,Latin America
-Timor-Leste,us,other
-Yemen,japan,Middle East
-Indonesia,us,Asia & Pacific
-Haiti,japan,other
-Gambia,swiss,Africa
-Bermuda,,other
-Pakistan,europe,other
-Croatia,us,Europe
-New Zealand,middle east,other
-Spain,us,Europe
-Micronesia,apac,other
-Mexico,japan,North America
-Zimbabwe,japan,Africa
-Peru,uk,Latin America
-Myanmar (Burma),europe,other
-Malaysia,europe,Asia & Pacific
-South Sudan,uk,Africa
-Cyprus,middle east,Middle East
-South Africa,japan,Africa
-Sweden,japan,Europe
-Senegal,swiss,Africa
-Caribbean Netherlands,japan,other
-Slovakia,us,Europe
-Palestine,,other
-United Arab Emirates,apac,Middle East
-Nicaragua,us,other
-Czechia,middle east,other
-Cameroon,apac,Africa
-Guinea-Bissau,uk,Africa
-Sierra Leone,middle east,Africa
-Thailand,apac,Asia & Pacific
-Slovakia,apac,Europe
-Mozambique,apac,Africa
-Lesotho,swiss,Africa
-Hungary,swiss,Europe
-Mali,japan,Africa
-Honduras,apac,other
-Jamaica,swiss,other
-Zimbabwe,apac,Africa
-North Macedonia,uk,other
-Sierra Leone,apac,Africa
-Palestine,middle east,other
-Togo,us,Africa
-Senegal,japan,Africa
-Afghanistan,us,other
-Suriname,us,Latin America
-Western Sahara,europe,other
-Singapore,japan,Asia & Pacific
-Mayotte,japan,other
-Argentina,,Latin America
-French Guiana,apac,Latin America
-Myanmar (Burma),,other
-South Africa,uk,Africa
-French Polynesia,europe,other
-Djibouti,middle east,Africa
-Denmark,uk,Europe
-Guadeloupe,uk,other
-Russia,apac,Europe
-Slovenia,us,Europe
-Niger,us,Africa
-Bhutan,apac,other
-Hungary,us,Europe
-Egypt,japan,Africa
-Finland,,Europe
-Hungary,uk,Europe
-Poland,apac,Europe
-Croatia,,Europe
-Timor-Leste,swiss,other
-Andorra,uk,Europe
-Thailand,middle east,Asia & Pacific
-Uganda,apac,Africa
-Angola,swiss,Africa
-Turkmenistan,europe,other
-Iran,japan,Middle East
-Bhutan,middle east,other
-Cape Verde,middle east,Africa
-Sri Lanka,europe,other
-Bahamas,us,other
-Fiji,us,other
-Bermuda,apac,other
-Barbados,japan,other
-Timor-Leste,japan,other
-Liechtenstein,japan,Europe
-French Guiana,uk,Latin America
-North Macedonia,middle east,other
-Bahrain,us,Middle East
-Bhutan,us,other
-Seychelles,apac,Africa
-Turks & Caicos Islands,apac,other
-Belarus,japan,Europe
-Norway,europe,Europe
-Kazakhstan,apac,other
-Egypt,swiss,Africa
-South Sudan,japan,Africa
-Bolivia,us,Latin America
-Sudan,us,Africa
-Hong Kong,,Asia & Pacific
-United Arab Emirates,japan,Middle East
-Ecuador,swiss,Latin America
-Haiti,uk,other
-Monaco,europe,Europe
-Maldives,,other
-Guatemala,japan,other
-Sweden,middle east,Europe
-French Polynesia,apac,other
-Turkmenistan,swiss,other
-Comoros,us,Africa
-Norway,apac,Europe
-Mongolia,japan,other
-Namibia,us,Africa
-Yemen,us,Middle East
-French Guiana,swiss,Latin America
-Micronesia,us,other
-St. Lucia,us,other
-Chad,uk,Africa
-Sudan,japan,Africa
-Bermuda,uk,other
-Sierra Leone,swiss,Africa
-Macao,europe,other
-Brunei,swiss,other
-Lesotho,apac,Africa
-Comoros,japan,Africa
-Philippines,uk,other
-Mexico,swiss,North America
-Rwanda,apac,Africa
-French Polynesia,swiss,other
-Burundi,uk,Africa
-Central African Republic,japan,Africa
-Poland,uk,Europe
-Bangladesh,uk,other
-St. Kitts & Nevis,uk,other
-São Tomé & Príncipe,europe,other
-Belarus,,Europe
-Wallis & Futuna,apac,other
-Grenada,us,other
-Djibouti,us,Africa
-Congo - Brazzaville,us,other
-Norfolk Island,us,other
-Cape Verde,europe,Africa
-Mauritius,swiss,other
-Syria,middle east,Middle East
-Zambia,middle east,Africa
-Somalia,uk,Africa
-Liberia,uk,Africa
-Somalia,swiss,Africa
-Kuwait,uk,Middle East
-Switzerland,swiss,Europe
-United Arab Emirates,,Middle East
-Saudi Arabia,japan,Middle East
-Macao,apac,other
-Côte d’Ivoire,apac,other
-Eritrea,us,Africa
-Jordan,uk,Middle East
-Netherlands,,Europe
-Malta,japan,other
-Namibia,europe,Africa
-Guernsey,swiss,other
-Equatorial Guinea,japan,Africa
-France,apac,Europe
-Guatemala,uk,other
-Türkiye,japan,other
-Colombia,japan,Latin America
-San Marino,swiss,Europe
-Portugal,japan,Europe
-Sweden,us,Europe
-Botswana,us,Africa
-Taiwan,middle east,Asia & Pacific
-Japan,swiss,Asia & Pacific
-India,japan,other
-Malaysia,japan,Asia & Pacific
-San Marino,middle east,Europe
-São Tomé & Príncipe,apac,other
-Georgia,swiss,other
-Lebanon,apac,Middle East
-Saudi Arabia,us,Middle East
-Mozambique,europe,Africa
-Dominican Republic,swiss,other
-Algeria,swiss,Africa
-Cook Islands,europe,other
-Bahrain,middle east,Middle East
-Ethiopia,middle east,Africa
-Finland,apac,Europe
-Côte d’Ivoire,uk,other
-France,middle east,Europe
-Honduras,japan,other
-India,apac,other
-Mexico,uk,North America
-Lebanon,us,Middle East
-Malaysia,,Asia & Pacific
-Andorra,europe,Europe
-Nauru,europe,other
-Bermuda,europe,other
-St. Vincent & Grenadines,europe,other
-Guernsey,uk,other
-,apac,other
-Estonia,japan,Europe
-Eritrea,apac,Africa
-Curaçao,us,other
-Gabon,japan,Africa
-Central African Republic,us,Africa
-Cuba,uk,other
-El Salvador,apac,other
-Gabon,us,Africa
-Azerbaijan,us,other
-St. Pierre & Miquelon,us,other
-China,europe,Asia & Pacific
-Nigeria,us,Africa
-Djibouti,apac,Africa
-Ukraine,us,Europe
-Bahamas,middle east,other
-Isle of Man,europe,other
-Belize,uk,other
-Sri Lanka,apac,other
-Antigua & Barbuda,japan,other
-Estonia,,Europe
-Iran,uk,Middle East
-Turks & Caicos Islands,europe,other
-Jordan,europe,Middle East
-Thailand,swiss,Asia & Pacific
-Réunion,europe,other
-Jersey,middle east,other
-Guernsey,japan,other
-Croatia,europe,Europe
-Sudan,middle east,Africa
-Liberia,japan,Africa
-Kiribati,us,other
-St. Lucia,europe,other
-French Guiana,japan,Latin America
-Congo - Kinshasa,us,other
-Germany,middle east,Europe
-Sint Maarten,swiss,other
-Serbia,uk,Europe
-Nauru,uk,other
-Cambodia,uk,other
-Congo - Kinshasa,europe,other
-Thailand,europe,Asia & Pacific
-Switzerland,europe,Europe
-Argentina,us,Latin America
-Eswatini,us,Africa
-United Arab Emirates,us,Middle East
-El Salvador,swiss,other
-Papua New Guinea,europe,other
-Algeria,middle east,Africa
-Serbia,swiss,Europe
-Afghanistan,apac,other
-Lithuania,apac,Europe
-Benin,uk,Africa
-Cape Verde,us,Africa
-Jordan,swiss,Middle East
-Northern Mariana Islands,uk,other
-Armenia,europe,other
-Central African Republic,apac,Africa
-Turks & Caicos Islands,us,other
-United States,,North America
-Eritrea,uk,Africa
-Syria,uk,Middle East
-Slovenia,europe,Europe
-Greece,uk,Europe
-Solomon Islands,middle east,other
-Curaçao,europe,other
-Suriname,swiss,Latin America
-Luxembourg,,Europe
-Isle of Man,apac,other
-Aruba,japan,other
-Iran,,Middle East
-Saudi Arabia,uk,Middle East
-Czechia,us,other
-United Kingdom,middle east,Europe
-Pakistan,uk,other
-Guatemala,europe,other
-Jordan,middle east,Middle East
-Cambodia,swiss,other
-Kuwait,middle east,Middle East
-Togo,europe,Africa
-Brazil,,Latin America
-Mozambique,us,Africa
-,us,other
-Turks & Caicos Islands,swiss,other
-St. Barthélemy,japan,other
-St. Martin,us,other
-Myanmar (Burma),middle east,other
-Lesotho,uk,Africa
-Czechia,japan,other
-Mali,swiss,Africa
-Chile,uk,Latin America
-Thailand,us,Asia & Pacific
-Benin,middle east,Africa
-Trinidad & Tobago,middle east,other
-Congo - Kinshasa,japan,other
-South Sudan,europe,Africa
-Cyprus,,Middle East
-Japan,,Asia & Pacific
-Lithuania,,Europe
-Guadeloupe,europe,other
-Pakistan,us,other
-Malta,europe,other
-Anguilla,europe,other
-St. Vincent & Grenadines,swiss,other
-Tajikistan,us,other
-Belize,apac,other
-New Zealand,us,other
-Honduras,us,other
-Indonesia,uk,Asia & Pacific
-Russia,japan,Europe
-Croatia,middle east,Europe
-Uruguay,swiss,Latin America
-Botswana,japan,Africa
-Laos,uk,other
-Antarctica,apac,other
-Puerto Rico,us,other
-Kazakhstan,us,other
-Sierra Leone,japan,Africa
-Saudi Arabia,apac,Middle East
-Lebanon,europe,Middle East
-Myanmar (Burma),apac,other
-Lebanon,uk,Middle East
-Benin,swiss,Africa
-Cuba,apac,other
-Bahamas,japan,other
-El Salvador,japan,other
-Grenada,apac,other
-Burkina Faso,swiss,Africa
-San Marino,apac,Europe
-San Marino,europe,Europe
-Cuba,middle east,other
-Puerto Rico,japan,other
-Sri Lanka,swiss,other
-Solomon Islands,us,other
-Iraq,japan,Middle East
-Mayotte,uk,other
-Thailand,,Asia & Pacific
-Botswana,,Africa
-France,japan,Europe
-Cuba,us,other
-Martinique,us,other
-Italy,europe,Europe
-,europe,other
-Ireland,japan,Europe
-Uganda,swiss,Africa
-Zambia,apac,Africa
-Ghana,middle east,Africa
-American Samoa,apac,other
-Gabon,apac,Africa
-Nicaragua,apac,other
-South Africa,apac,Africa
-Benin,us,Africa
-Israel,uk,Middle East
-El Salvador,uk,other
-Guinea,europe,Africa
-Côte d’Ivoire,swiss,other
-Mozambique,japan,Africa
-Sudan,uk,Africa
-Cameroon,uk,Africa
-Réunion,us,other
-Pakistan,japan,other
-Martinique,swiss,other
-Belize,us,other
-Australia,,Asia & Pacific
-Belize,swiss,other
-Panama,us,other
-Kazakhstan,japan,other
-Belgium,,Europe
-French Guiana,europe,Latin America
-Oman,apac,Middle East
-Finland,japan,Europe
-Northern Mariana Islands,apac,other
-Bulgaria,uk,Europe
-Kyrgyzstan,apac,other
-Papua New Guinea,middle east,other
-Somalia,japan,Africa
-St. Vincent & Grenadines,middle east,other
-Oman,japan,Middle East
-Singapore,europe,Asia & Pacific
-Cook Islands,us,other
-Portugal,,Europe
-Argentina,swiss,Latin America
-Uzbekistan,swiss,other
-Tanzania,japan,Africa
-Albania,us,Europe
-Uzbekistan,middle east,other
-Kosovo,uk,Europe
-Togo,uk,Africa
-Isle of Man,,other
-Bosnia & Herzegovina,middle east,other
-Guadeloupe,swiss,other
-South Korea,us,Asia & Pacific
-Mauritania,uk,Africa
-Papua New Guinea,swiss,other
-Macao,,other
-Tajikistan,apac,other
-Zimbabwe,,Africa
-Uzbekistan,uk,other
-Algeria,us,Africa
-Nigeria,europe,Africa
-Slovenia,middle east,Europe
-Spain,europe,Europe
-Iraq,us,Middle East
-Madagascar,japan,Africa
-Palestine,swiss,other
-Fiji,swiss,other
-Niger,middle east,Africa
-Spain,uk,Europe
-Canada,japan,North America
-Venezuela,swiss,Latin America
-Montserrat,us,other
-Mayotte,middle east,other
-Ukraine,swiss,Europe
-New Zealand,japan,other
-Congo - Kinshasa,middle east,other
-Norfolk Island,apac,other
-Sri Lanka,uk,other
-Liberia,us,Africa
-Saudi Arabia,middle east,Middle East
-Estonia,middle east,Europe
-Vanuatu,apac,other
-Cuba,japan,other
-Laos,us,other
-Martinique,apac,other
-Azerbaijan,uk,other
-Libya,japan,Africa
-Eswatini,middle east,Africa
-Kyrgyzstan,swiss,other
-Ireland,europe,Europe
-Jordan,,Middle East
-Haiti,swiss,other
-Hong Kong,swiss,Asia & Pacific
-Kenya,,Africa
-New Zealand,uk,other
-Bosnia & Herzegovina,japan,other
-Bosnia & Herzegovina,us,other
-Greenland,swiss,other
-Christmas Island,apac,other
-São Tomé & Príncipe,middle east,other
-Slovenia,uk,Europe
-Albania,middle east,Europe
-Iraq,,Middle East
-Moldova,,Europe
-Nigeria,apac,Africa
-Montenegro,japan,Europe
-Lebanon,,Middle East
-Svalbard & Jan Mayen,apac,other
-Greece,middle east,Europe
-Cayman Islands,swiss,other
-Kiribati,middle east,other
-Maldives,europe,other
-Congo - Brazzaville,middle east,other
-Gambia,middle east,Africa
-Guatemala,middle east,other
-Uganda,uk,Africa
-St. Martin,japan,other
-Libya,apac,Africa
-U.S. Outlying Islands,us,other
-Jersey,apac,other
-Philippines,apac,other
-Cambodia,apac,other
-Fiji,japan,other
-Gibraltar,us,other
-Puerto Rico,uk,other
-Guinea-Bissau,us,Africa
-Bhutan,europe,other
-Tajikistan,swiss,other
-Suriname,europe,Latin America
-Portugal,swiss,Europe
-France,uk,Europe
-Canada,swiss,North America
-San Marino,uk,Europe
-Grenada,uk,other
-Cameroon,,Africa
-Namibia,apac,Africa
-Egypt,uk,Africa
-Sierra Leone,us,Africa
-Martinique,uk,other
-Mali,uk,Africa
-Brunei,middle east,other
-Singapore,uk,Asia & Pacific
-Namibia,middle east,Africa
-Guernsey,,other
-Philippines,us,other
-Poland,us,Europe
-Bhutan,swiss,other
-Guernsey,middle east,other
-Switzerland,uk,Europe
-Ecuador,middle east,Latin America
-Indonesia,middle east,Asia & Pacific
-Nepal,swiss,other
-Barbados,europe,other
-Brunei,us,other
-Costa Rica,us,other
-St. Lucia,apac,other
-British Virgin Islands,europe,other
-Albania,japan,Europe
-Mozambique,uk,Africa
-Guatemala,us,other
-Spain,swiss,Europe
-United Arab Emirates,swiss,Middle East
-Faroe Islands,us,other
-Anguilla,middle east,other
-India,europe,other
-South Sudan,apac,Africa
-Svalbard & Jan Mayen,us,other
-Lithuania,europe,Europe
-Isle of Man,japan,other
-North Korea,apac,other
-Anguilla,apac,other
-Paraguay,swiss,Latin America
-Haiti,apac,other
-North Korea,europe,other
-New Zealand,europe,other
-Zimbabwe,europe,Africa
-Northern Mariana Islands,europe,other
-Tajikistan,,other
-Burkina Faso,europe,Africa
-Falkland Islands (Islas Malvinas),apac,other
-New Zealand,swiss,other
-Finland,uk,Europe
-Bahamas,europe,other
-Spain,japan,Europe
-Armenia,us,other
-Dominican Republic,us,other
-Oman,middle east,Middle East
-São Tomé & Príncipe,us,other
-Gabon,europe,Africa
-Seychelles,europe,Africa
-Tanzania,swiss,Africa
-Germany,swiss,Europe
-Sint Maarten,us,other
-Iraq,middle east,Middle East
-Papua New Guinea,uk,other
-Maldives,swiss,other
-Bolivia,middle east,Latin America
-Eswatini,japan,Africa
-Finland,europe,Europe
-U.S. Virgin Islands,us,other
-Singapore,swiss,Asia & Pacific
-Cook Islands,uk,other
-Maldives,us,other
-Liechtenstein,us,Europe
-Cape Verde,apac,Africa
-Norway,us,Europe
-Australia,middle east,Asia & Pacific
-Aruba,swiss,other
-Cameroon,europe,Africa
-Eritrea,middle east,Africa
-Libya,europe,Africa
-Serbia,middle east,Europe
-St. Lucia,swiss,other
-Equatorial Guinea,swiss,Africa
-North Korea,us,other
-Hungary,europe,Europe
-Austria,,Europe
-Uruguay,japan,Latin America
-Kyrgyzstan,japan,other
-Australia,europe,Asia & Pacific
-Chile,middle east,Latin America
-Costa Rica,swiss,other
-Türkiye,,other
-Mali,,Africa
-Equatorial Guinea,uk,Africa
-Congo - Brazzaville,europe,other
-France,,Europe
-New Caledonia,europe,other
-Jordan,japan,Middle East
-Congo - Kinshasa,swiss,other
-St. Lucia,japan,other
-San Marino,japan,Europe
-Somalia,europe,Africa
-Iran,swiss,Middle East
-Vietnam,apac,other
-Panama,europe,other
-Uruguay,europe,Latin America
-Sri Lanka,japan,other
-Iceland,japan,Europe
-Eswatini,apac,Africa
-Yemen,middle east,Middle East
-Honduras,middle east,other
-Zambia,us,Africa
-Algeria,,Africa
-Slovakia,uk,Europe
-Peru,,Latin America
-Mauritania,swiss,Africa
-South Africa,,Africa
-St. Helena,us,other
-Israel,europe,Middle East
-Bulgaria,swiss,Europe
-Ireland,,Europe
-Bhutan,uk,other
-Cameroon,japan,Africa
-French Guiana,us,Latin America
-South Georgia & South Sandwich Islands,uk,other
-Türkiye,europe,other
-Dominican Republic,japan,other
-Mexico,us,North America
-Eswatini,europe,Africa
-Seychelles,,Africa
-Sri Lanka,middle east,other
-Indonesia,apac,Asia & Pacific
-Côte d’Ivoire,middle east,other
-Malta,uk,other
-Cayman Islands,europe,other
-Italy,apac,Europe
-Iran,middle east,Middle East
-Kyrgyzstan,middle east,other
-Togo,japan,Africa
-Morocco,apac,Africa
-Timor-Leste,europe,other
-Luxembourg,apac,Europe
-Belize,middle east,other
-Micronesia,middle east,other
-United Kingdom,uk,Europe
-Belgium,europe,Europe
-Gibraltar,europe,other
-Ghana,,Africa
-Malta,middle east,other
-Costa Rica,middle east,other
-Hong Kong,uk,Asia & Pacific
-Bahamas,uk,other
-Latvia,us,Europe
-Gibraltar,apac,other
-Syria,,Middle East
-Argentina,japan,Latin America
-Belgium,us,Europe
-Venezuela,apac,Latin America
-United Arab Emirates,uk,Middle East
-Greece,us,Europe
-Paraguay,europe,Latin America
-Mauritius,middle east,other
-Jamaica,europe,other
-Zambia,uk,Africa
-Montserrat,middle east,other
-St. Pierre & Miquelon,uk,other
-Luxembourg,middle east,Europe
-Congo - Kinshasa,,other
-Iraq,europe,Middle East
-Comoros,apac,Africa
-Bolivia,uk,Latin America
-Bulgaria,apac,Europe
-Guinea,uk,Africa
-Canada,us,North America
-Austria,uk,Europe
-South Korea,,Asia & Pacific
-Ecuador,japan,Latin America
-Philippines,middle east,other
-Tunisia,swiss,Africa
-Namibia,,Africa
-Andorra,japan,Europe
-Egypt,apac,Africa
-Moldova,us,Europe
-Mauritania,japan,Africa
-Zimbabwe,us,Africa
-Bosnia & Herzegovina,uk,other
-Costa Rica,apac,other
-Luxembourg,swiss,Europe
-Marshall Islands,europe,other
-Dominica,europe,other
-Ethiopia,,Africa
-Russia,uk,Europe
-U.S. Virgin Islands,apac,other
-,,other
-Faroe Islands,middle east,other
-Philippines,japan,other
-Cayman Islands,uk,other
-Senegal,europe,Africa
-Burundi,europe,Africa
-Bermuda,japan,other
-Chad,,Africa
-Vietnam,europe,other
-French Polynesia,us,other
-Romania,japan,Europe
-Guam,europe,other
-Mozambique,middle east,Africa
-Poland,japan,Europe
-Guinea-Bissau,apac,Africa
-Armenia,japan,other
-Netherlands,uk,Europe
-Philippines,europe,other
-Botswana,uk,Africa
-Ethiopia,apac,Africa
-South Korea,uk,Asia & Pacific
-Armenia,apac,other
-Nicaragua,swiss,other
-,swiss,other
-British Virgin Islands,uk,other
-Ecuador,europe,Latin America
-Bulgaria,middle east,Europe
-Panama,japan,other
-Andorra,us,Europe
-Kuwait,,Middle East
-Zimbabwe,swiss,Africa
-Guyana,us,Latin America
-Mongolia,europe,other
-Kuwait,us,Middle East
-Uganda,japan,Africa
-Anguilla,swiss,other
-Bangladesh,europe,other
-New Caledonia,apac,other
-Latvia,japan,Europe
-Iceland,europe,Europe
-Montserrat,uk,other
-Greece,apac,Europe
-Ukraine,uk,Europe
-Iceland,apac,Europe
-Anguilla,uk,other
-Tonga,japan,other
-Grenada,middle east,other
-Guinea-Bissau,japan,Africa
-Italy,,Europe
-Armenia,uk,other
-Morocco,japan,Africa
-Malaysia,us,Asia & Pacific
-Bahamas,apac,other
-Moldova,apac,Europe
-Tanzania,europe,Africa
-Northern Mariana Islands,japan,other
-Equatorial Guinea,us,Africa
-Mongolia,apac,other
-Suriname,uk,Latin America
-Ireland,middle east,Europe
-Colombia,,Latin America
-Northern Mariana Islands,us,other
-Albania,apac,Europe
-Benin,europe,Africa
-Liechtenstein,middle east,Europe
-Moldova,europe,Europe
-Netherlands,middle east,Europe
-Denmark,middle east,Europe
-Réunion,uk,other
-Portugal,europe,Europe
-Cyprus,us,Middle East
-South Korea,middle east,Asia & Pacific
-Nicaragua,europe,other
-Denmark,europe,Europe
-Sweden,swiss,Europe
-Libya,uk,Africa
-Cuba,europe,other
-Equatorial Guinea,apac,Africa
-Paraguay,us,Latin America
-Kyrgyzstan,uk,other
-Netherlands,swiss,Europe
-Guinea-Bissau,europe,Africa
-Oman,europe,Middle East
-St. Vincent & Grenadines,us,other
-Bangladesh,,other
-Jamaica,us,other
-Venezuela,europe,Latin America
-Cameroon,middle east,Africa
-Norway,japan,Europe
-Israel,japan,Middle East
-Kazakhstan,,other
-French Guiana,middle east,Latin America
-Peru,us,Latin America
-Suriname,japan,Latin America
-Nepal,japan,other
-Tonga,apac,other
-Yemen,uk,Middle East
-Guatemala,apac,other
-Timor-Leste,uk,other
-Vietnam,,other
-Malawi,apac,Africa
-Bolivia,apac,Latin America
-Maldives,japan,other
-Malawi,uk,Africa
-Libya,swiss,Africa
-Egypt,europe,Africa
-Finland,us,Europe
-Côte d’Ivoire,europe,other
-Jersey,japan,other
-Togo,middle east,Africa
-Seychelles,swiss,Africa
+country,geographical_region
+Ireland,Europe
+Cape Verde,Africa
+Brunei,other
+Gambia,Africa
+Cameroon,Africa
+Somalia,Africa
+Burkina Faso,Africa
+Monaco,Europe
+Montserrat,other
+Albania,Europe
+Puerto Rico,other
+Slovakia,Europe
+South Georgia & South Sandwich Islands,other
+Bahamas,other
+Italy,Europe
+Luxembourg,Europe
+Réunion,other
+North Macedonia,other
+Venezuela,Latin America
+Antigua & Barbuda,other
+Myanmar (Burma),other
+Antarctica,other
+Australia,Asia & Pacific
+Malaysia,Asia & Pacific
+Russia,Europe
+Peru,Latin America
+,other
+Uganda,Africa
+Mali,Africa
+Namibia,Africa
+Cuba,other
+Germany,Europe
+Iceland,Europe
+Mozambique,Africa
+Taiwan,Asia & Pacific
+Caribbean Netherlands,other
+Macao,other
+Belgium,Europe
+Seychelles,Africa
+Côte d’Ivoire,other
+Eritrea,Africa
+Qatar,Middle East
+Czechia,other
+Montenegro,Europe
+Ecuador,Latin America
+Dominican Republic,other
+Zambia,Africa
+Vatican City,other
+France,Europe
+Yemen,Middle East
+St. Vincent & Grenadines,other
+Guam,other
+Kosovo,Europe
+Cambodia,other
+Malawi,Africa
+Svalbard & Jan Mayen,other
+Guinea,Africa
+U.S. Virgin Islands,other
+Mongolia,other
+Bermuda,other
+Afghanistan,other
+Jersey,other
+Armenia,other
+Timor-Leste,other
+Türkiye,other
+Argentina,Latin America
+Thailand,Asia & Pacific
+Central African Republic,Africa
+St. Lucia,other
+San Marino,Europe
+Uzbekistan,other
+Turks & Caicos Islands,other
+Barbados,other
+Northern Mariana Islands,other
+Falkland Islands (Islas Malvinas),other
+Spain,Europe
+China,Asia & Pacific
+Liechtenstein,Europe
+French Guiana,Latin America
+Dominica,other
+Haiti,other
+St. Kitts & Nevis,other
+Singapore,Asia & Pacific
+Åland Islands,other
+Marshall Islands,other
+Faroe Islands,other
+Saudi Arabia,Middle East
+New Caledonia,other
+Paraguay,Latin America
+Iran,Middle East
+Vietnam,other
+Guatemala,other
+Turkmenistan,other
+Kuwait,Middle East
+Liberia,Africa
+Indonesia,Asia & Pacific
+Bulgaria,Europe
+Belarus,Europe
+Lesotho,Africa
+Lebanon,Middle East
+Switzerland,Europe
+Wallis & Futuna,other
+Guyana,Latin America
+Senegal,Africa
+Honduras,other
+Anguilla,other
+Mauritania,Africa
+Serbia,Europe
+Canada,North America
+Algeria,Africa
+Lithuania,Europe
+Papua New Guinea,other
+Aruba,other
+Andorra,Europe
+Nepal,other
+Sweden,Europe
+Kyrgyzstan,other
+Moldova,Europe
+Bhutan,other
+Palau,other
+Trinidad & Tobago,other
+Jordan,Middle East
+Sierra Leone,Africa
+United States,North America
+Bosnia & Herzegovina,other
+Vanuatu,other
+Cyprus,Middle East
+Mexico,North America
+Oman,Middle East
+Iraq,Middle East
+Congo - Brazzaville,other
+St. Martin,other
+Austria,Europe
+St. Helena,other
+Syria,Middle East
+Burundi,Africa
+Suriname,Latin America
+Tunisia,Africa
+Slovenia,Europe
+Eswatini,Africa
+Portugal,Europe
+Latvia,Europe
+Guernsey,other
+Djibouti,Africa
+Samoa,other
+North Korea,other
+Tanzania,Africa
+Norfolk Island,other
+Guadeloupe,other
+Sri Lanka,other
+Kiribati,other
+Equatorial Guinea,Africa
+Angola,Africa
+Nigeria,Africa
+Ukraine,Europe
+Greece,Europe
+Grenada,other
+Gabon,Africa
+Philippines,other
+Maldives,other
+Mayotte,other
+Rwanda,Africa
+Finland,Europe
+Libya,Africa
+Morocco,Africa
+Madagascar,Africa
+South Korea,Asia & Pacific
+St. Barthélemy,other
+Chile,Latin America
+Martinique,other
+Hong Kong,Asia & Pacific
+Kenya,Africa
+Cook Islands,other
+Cayman Islands,other
+Brazil,Latin America
+Nicaragua,other
+Uruguay,Latin America
+Guinea-Bissau,Africa
+South Africa,Africa
+Hungary,Europe
+Norway,Europe
+Denmark,Europe
+Egypt,Africa
+Congo - Kinshasa,other
+Mauritius,other
+Niger,Africa
+Pakistan,other
+Palestine,other
+Curaçao,other
+Tajikistan,other
+Comoros,Africa
+Benin,Africa
+Poland,Europe
+Bangladesh,other
+St. Pierre & Miquelon,other
+United Arab Emirates,Middle East
+Kazakhstan,other
+British Indian Ocean Territory,other
+Georgia,other
+Fiji,other
+French Polynesia,other
+Belize,other
+United Kingdom,Europe
+Botswana,Africa
+U.S. Outlying Islands,other
+Israel,Middle East
+Solomon Islands,other
+Costa Rica,other
+Gibraltar,other
+Ghana,Africa
+Netherlands,Europe
+Malta,other
+New Zealand,other
+Togo,Africa
+Nauru,other
+Romania,Europe
+Christmas Island,other
+Bahrain,Middle East
+Niue,other
+Laos,other
+Colombia,Latin America
+British Virgin Islands,other
+Western Sahara,other
+Sint Maarten,other
+El Salvador,other
+Jamaica,other
+Azerbaijan,other
+Isle of Man,other
+India,other
+Sudan,Africa
+Chad,Africa
+Micronesia,other
+São Tomé & Príncipe,other
+Greenland,other
+Panama,other
+Ethiopia,Africa
+Estonia,Europe
+Bolivia,Latin America
+South Sudan,Africa
+American Samoa,other
+Tonga,other
+Croatia,Europe
+Zimbabwe,Africa
+Japan,Asia & Pacific

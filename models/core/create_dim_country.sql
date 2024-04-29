@@ -5,6 +5,7 @@ WITH chanel_country_and_region AS (
         epk_region AS chanel_region,
     FROM {{ ref('ga4_source_roll_up') }}
     WHERE epk_division_flag = 'fsh'
+    AND geo.country IS NOT NULL
 ),
 
 add_geographical_region AS (

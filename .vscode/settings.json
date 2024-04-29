@@ -1,0 +1,6 @@
+{
+    "dbt.enableNewLineagePanel": true,
+    "dbt.lineage.showNonSelectEdges": false,
+    "dbt.lineage.defaultExpansion": 2,
+    "dbt.lineage.showSelectEdges": true
+}
