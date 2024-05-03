@@ -13,6 +13,7 @@ select_useful_columns AS (
         user_pseudo_id AS user_id,
         CONCAT(user_pseudo_id, epk_ga_session_id) AS session_id,
         geo.country AS country,
+        epk_region AS region,
         device.category
     FROM filter_data_by_division
 )

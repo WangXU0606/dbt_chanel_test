@@ -6,7 +6,7 @@ WITH select_main_columns AS (
 display_all_the_columns AS (
     SELECT 
         select_main_columns.*,
-        dim_country.geographical_region, -- This column represents the geographical region for each country and is added based on the mapping condition in the RSE APP dashboard. Contact Yanis SALHENE for questions.
+        COALESCE(dim_country.geographical_region, 'other') AS geographical_region, -- This column represents the geographical region for each country and is added based on the mapping condition in the RSE APP dashboard. Contact Yanis SALHENE for questions.
         event_name,
         ga4_source.epk_collection AS collection,
         ga4_source.epk_division_flag,
