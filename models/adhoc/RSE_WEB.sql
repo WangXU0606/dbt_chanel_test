@@ -14,7 +14,7 @@ display_all_the_columns AS (
         ga4_source.epk_event_label,
     FROM select_main_columns
         LEFT JOIN {{ ref('ga4_source_roll_up') }} AS ga4_source
-        ON select_main_columns.unique_event_id_modified = ga4_source.unique_event_id_modified
+        ON select_main_columns.unique_event_id = ga4_source.unique_event_id
         LEFT JOIN {{ ref('dim_country') }} AS dim_country
         ON select_main_columns.country = dim_country.country
     WHERE ga4_source.epk_event_action LIKE '%video%' -- filter on event video
