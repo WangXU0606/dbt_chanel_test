@@ -1,7 +1,6 @@
 WITH select_main_columns AS (
     SELECT * 
     FROM {{ ref('main_data_ga4') }}
-    WHERE event_date BETWEEN '2024-03-01' AND '2024-03-08'
 ),
 
 display_all_the_columns AS (
