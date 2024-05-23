@@ -7,7 +7,6 @@ WITH select_main_columns AS (
 display_all_the_columns AS (
     SELECT 
         select_main_columns.*,
-        COALESCE(dim_country.geographical_region, 'other') AS geographical_region, -- This column represents the geographical region for each country and is added based on the mapping condition in the RSE APP dashboard. Contact Yanis SALHENE for questions.
         CASE 
             WHEN ga4_source.device.mobile_model_name="iPhone XS Max" then "iPhone 11Pro Max/XS Max"
             WHEN ga4_source.device.mobile_model_name="iPhone+XS+Max" then "iPhone 11Pro Max/XS Max"
@@ -37,24 +36,51 @@ display_all_the_columns AS (
         ga4_source.device.web_info.browser_version
     FROM select_main_columns
         LEFT JOIN {{ ref('ga4_source_roll_up') }} AS ga4_source
-        ON select_main_columns.unique_event_id_modified = ga4_source.unique_event_id_modified
-        LEFT JOIN {{ ref('dim_country') }} AS dim_country
-        ON select_main_columns.country = dim_country.country
+        ON select_main_columns.unique_event_id = ga4_source.unique_event_id
+),
+
+-- as there are duplicates for the same session, we need to rank them by the event_date and only take the first row
+ranked_sessions AS (
+  SELECT
+    *,
+    ROW_NUMBER() OVER (PARTITION BY session_id ORDER BY event_date) AS row_num
+  FROM
+    display_all_the_columns
+),
+
+first_row_of_each_session AS (
+  SELECT
+    *
+  FROM
+    ranked_sessions
+  WHERE
+    row_num = 1
 )
 
--- SELECT * FROM display_all_the_columns
-
-SELECT DISTINCT  
+-- 1) As the dashboard IT is at session level, we can drop the column unique_event_id; 2) We calculate the distinct number of sessions and users at this stage to avoid importing too many rows in PowerBI
+SELECT
     event_date,
-    user_id,
-    session_id,
     country,
+    locale,
     region,
-    geographical_region,
     category,
     mobile_model_name,
     operating_system,
     operating_system_version,
     browser,
-    browser_version
-FROM display_all_the_columns
+    browser_version, 
+    user_id,
+    COUNT(DISTINCT session_id) AS total_distinct_sessions
+FROM first_row_of_each_session
+GROUP BY 
+    event_date,
+    country,
+    locale,
+    region,
+    category,
+    mobile_model_name,
+    operating_system,
+    operating_system_version,
+    browser,
+    browser_version,
+    user_id
